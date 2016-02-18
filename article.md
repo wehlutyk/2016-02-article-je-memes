@@ -333,35 +333,101 @@ L’expérience face à ses présupposés
 -----------------------------------
 
 Dans le cadre de ma thèse sur l’épidémiologie des représentations,
-j’étudie la transformation de courtes citations lorsqu’elles sont
-propagées de blog en blog sur internet et dans des situations
-d’expérimentation plus contrôlées : les billets de blogs (de la
-blogosphère anglophone dans le cas présent) incluent en effet de
-nombreuses citations reproduites sous forme de discours direct, le plus
-souvent venant d’hommes et de femmes politiques. Mais les reproductions
-sont également régulièrement transformées au-delà du simple rognage : un
-mot disparaît, une contraction apparaît, une expression est légèrement
-déformée (voir \#ref pour une typologie complète des transformations
-qu’on rencontre). Ces courtes citations sont donc un bon exemple de
-représentation publique qui – malgré la règle implicite de
-non-modification d’un discours rapporté – est régulièrement transformée
-par ce qui semble être des biais cognitifs, au cours de sa propagation
-sur internet : un cas d’étude empirique idéal pour l’épidémiologie des
-représentations.
+j’étudie quantitativement la transformation de courtes citations
+lorsqu’elles sont propagées sur internet de blog en blog et dans des
+situations d’expérimentation plus contrôlées. Les billets de blogs (de
+la blogosphère anglophone dans le cas présent) incluent en effet de
+nombreuses citations reproduites sous forme de discours direct (\#ref),
+mais ces reproductions sont également régulièrement transformées au-delà
+du simple rognage (\#ref) : un mot disparaît, une contraction apparaît,
+une expression est légèrement déformée (voir \#ref pour une typologie
+complète des transformations qu’on rencontre). Ces courtes citations
+sont donc un bon exemple de représentation publique ou de mème qui –
+malgré la règle implicite de non-modification d’un discours rapporté –
+est régulièrement transformé au cours de sa propagation sur internet par
+ce qui semble être des biais cognitifs : un cas d’étude empirique idéal
+pour l’épidémiologie des représentations. Grâce à un corpus conséquent
+rendant l’analyse quantitative possible (\#ref), on peut poser la
+question des types de transformations observés, de leur origine
+cognitive, de leur effet à long terme (par l’apparition d’attracteurs
+culturels), et de l’interaction de ces transformations avec des
+processus de diffusion.
 
-Le problème expliqué dans la première partie est une réelle difficulté
-pour ce type d’étude.
+Mais le problème de présupposés détaillé dans la première partie est
+bien une réalité pour ce type d’étude. Au-delà des difficultés
+techniques qui ne permettent pas d’avoir accès aux contextes réels de
+lecture et de production d’une phrase, il devient évident au moment de
+réaliser l’analyse que le sens est une construction émanant de la
+situation concrète du lecteur et de sa relation au texte lu. Prenons
+l’exemple du tweet suivant :
 
-\# au-delà des difficultés techniques qui font qu’on peut pas regarder
-tout le contexte d’une citation, il devient évident (en particulier
-quand on fait l’expé) que le sens est une construction de la situation
-et du lecteur dans sa situation concrète.
+1.  « On est tous le beau et le moche de quelqu'un »[^1]
 
-\# on se rend compte à quel point il faut abstraire la réalité pour que
-ça marche.
+Cet énoncé paraît neutre a priori, et est suffisamment classique et
+consensuel pour être « aimé », repris et publié à nouveau
+régulièrement.[^2] Mais comme le montre la conversation qui suit, on ne
+peut pas connaître le *sens* de l’échange. Une réponse au message
+initial est d’abord faite sur le ton de l'humour :
+
+1.  « mais être moche c'est quand même la base ahah »[^3]
+
+Puis deux échanges plus tard la conversation se termine :
+
+1.  « \[mort de rire,\] pour certaines filles surtout, je pense »[^4]
+
+Même après cinq répliques, on ne sait toujours pas s’il s’agit de
+sexisme et de rejet ou d’une plaisanterie sans conséquence. Sans plus
+d'informations sur la relation entre les interlocuteurs, leurs
+interactions, ou l’histoire commune qu’ils peuvent avoir, cette
+conversation pourtant publique ne nous permet pas de savoir ce qui a été
+échangé sur le fond, ni même ce que signifie le message initial pour
+l’un ou l’autre des participants.
+
+Revenons alors à la question d’origine : la mutation de telles
+représentations publiques, ou mèmes. À la lumière de l’exemple ci-dessus
+et de son explication dans la première partie, il devient clair qu’un
+projet visant à étudier les mutations *sémantiques* sera confronté à une
+indétermination de fond pour saisir le sens des phrases en question.
+Étant donné que les informations de contexte nécessaires sont hors de
+portée (sans même parler des outils théoriques pour les traiter), il
+semble indispensable de forcer une détermination du sens en créant des
+situations artificiellement plus contraintes, c’est-à-dire en essayant
+de décider du contexte à l’avance. Mais alors l’essence du modèle
+mémétique, qui consiste à abstraire le contexte dans l’étude de la
+diffusion et de la mutation, est perdue.
+
+L’étude des réseaux sociaux numériques semble refléter ce conflit : la
+discipline, qui a en grande partie utilisé le modèle mémétique pour
+l’étude de la diffusion (\#ref), voit se développer un courant pour
+l’étude de la « contagion complexe », c’est-à-dire l’étude de systèmes
+dont le processus de base n’est plus la transmission d’un objet atomique
+(un hashtag, une vidéo, une URL), mais la *contagion*, avec possible
+mutation, d’un objet plus compliqué doté d’une structure interne (par
+exemple une phrase) (\#ref).
+
+\# Les principaux résultats sont sur le contexte, et l’histoire
+personnelle, justement.
+
+Il y a alors deux options face à ce conflit. La première consiste à
+réduire le champ d’application et de questionnement, c’est-à-dire se
+limiter à des situations où le modèle mémétique explique la plus grande
+partie du phénomène qu’on observe, mais on remarquera que ce champ n’est
+pas clairement délimité et ne correspond pas au champ des réseaux
+sociaux numériques. La deuxième consiste à tenter de dépasser le conflit
+et penser le contexte.
 
 Penser le contexte
 ------------------
 
 Conclusion
 ==========
+
+[^1]: https://twitter.com/LFCYlies/status/585127416621883393
+
+[^2]: Une recherche simple sur Twitter montre que l’énoncé apparaît en
+    moyenne une fois par mois, et la plupart des instances sont
+    republiées plusieurs fois.
+
+[^3]: https://twitter.com/rwlcff/status/585130263606390785
+
+[^4]: https://twitter.com/LFCYlies/status/585131310366269440
