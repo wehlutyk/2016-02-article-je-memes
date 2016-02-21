@@ -11,3 +11,5 @@
 *.out
 *.toc
 *.tex
+*.bbl
+*.blg
