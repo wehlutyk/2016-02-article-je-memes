@@ -824,6 +824,7 @@ FUNCTION {incollection}
 { output.bibitem
   format.authors "author" output.check
   author format.key output
+  format.date "year" output.check
   new.block
   format.title "title" output.check
   new.block
@@ -836,7 +837,6 @@ FUNCTION {incollection}
       publisher "publisher" output.check
       address output
       format.edition output
-      format.date "year" output.check
     }
     { format.incoll.inproc.crossref output.nonnull
       format.chapter.pages output
@@ -854,6 +854,7 @@ FUNCTION {inproceedings}
 { output.bibitem
   format.authors "author" output.check
   author format.key output
+  format.date "year" output.check
   new.block
   format.title "title" output.check
   new.block
@@ -866,10 +867,8 @@ FUNCTION {inproceedings}
         { organization publisher new.sentence.checkb
           organization output
           publisher output
-          format.date "year" output.check
         }
         { address output.nonnull
-          format.date "year" output.check
           new.sentence
           organization output
           publisher output
@@ -928,11 +927,11 @@ FUNCTION {misc}
 { output.bibitem
   format.authors output
   author format.key output
+  format.date output
   title howpublished new.block.checkb
   format.title output
   howpublished new.block.checka
   howpublished output
-  format.date output
   format.issn output
   format.url output
   new.block
@@ -983,13 +982,13 @@ FUNCTION {techreport}
 { output.bibitem
   format.authors "author" output.check
   author format.key output
+  format.date "year" output.check
   new.block
   format.title "title" output.check
   new.block
   format.tr.number output.nonnull
   institution "institution" output.check
   address output
-  format.date "year" output.check
   format.url output
   new.block
   note output
