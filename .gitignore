@@ -1,3 +1,13 @@
 *.odt
 .~lock.*
 *.pdf
+
+# Latexmk
+*.aux
+*.dvi
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.toc
+*.tex
