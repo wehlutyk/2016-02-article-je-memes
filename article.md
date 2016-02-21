@@ -3,17 +3,15 @@ Pour une étude du contexte d’interprétation
 Introduction
 ============
 
-\# tenter de rendre compte du monde est dur. C'est complexe. Alors les principes simplificateurs sont toujours bons à prendre. Mais il faut choisir les bons, and keep them in check.
+La mémétique a connu un renouveau récent au travers du programme d’épidémiologie des représentations proposé par Dan Sperber dans le courant des années quatre-vingt-dix (\#ref). Si son ambition initiale a été relativement délaissée, ses principes restent utilisés aujourd’hui dans l’étude des mèmes internet sur les réseaux sociaux numériques et dans le courant de recherche épidémiologique initié par Sperber.
 
-\# la mémétique a eu beaucoup de presse ces dernières années, et le principe de fond a été réutilisé transformé. Si c'est un peu mort, l'idée derrière est bien présente et se reproduit tout le temps.
+Ces deux champs participent à un débat actif (bien que parfois peu explicite) à propos des approches permettant de lier les sciences humaines et la psychologie au sens large, et en particulier les sciences cognitives. La position qu’elles ont sur cette question est clairement arrêtée et partagée bien au-delà de leurs communautés respectives. Je voudrais montrer en quoi cette discussion, et la position portée par la mémétique, sont pertinentes au moment d’envisager une utilisation de cette théorie en linguistique.
 
-\# il y a en ce moment une discussion autour des approches pour lier cog et soc, avec de nombreux acteurs, et la famille d'approches de la mémétique en est une. Elle est discutée de plusieurs points, et je voudrais montrer en quoi ceci est pertinent pour la linguistique.
+Je commence par rappeler les principes de l’épidémiologie des représentations, qui s’est constituée comme une critique de la mémétique et connaît actuellement un succès réel. Puis j’examine en détail la façon dont Tim Ingold, principal critique explicite de cette approche aujourd’hui, discute ces deux théories depuis l’anthropologie sociale.
 
-\# je vais donc commencer par rappeler les principes de l'épidémiologie des représentations, une des théories critiques de la mémétique au succès tout à fait actuel, puis détailler la critique faite à ces deux théories depuis l'anthropologie sociale, incarnée par Tim Ingold.
+Je tente ensuite de montrer comment cette discussion apparaît concrètement dans une étude de cas inspirée de l’épidémiologie des représentations, et comment les questions de fond du débat sont pertinentes pour (et connues de) la linguistique au moment de s’inspirer de la mémétique.
 
-\# je montrerai ensuite comment ces oppositions font surface concrètement dans une étude de cas inspirée de l'épidémiologie des représentations, et comment les questions qui apparaissent sont en réalité bien connues de la linguistique.
-
-\# je conclurai en défendant une utilisation pragmatique de la mémétique, dans la mesure où elle ne fait pas disparaître le contexte du champ d'étude linguistique.
+Je conclus en défendant une utilisation critique de cette théorie, c’est-à-dire en explicitant que les situations qu’elle peut traiter ne peuvent que difficilement impliquer la sémantique, et en attirant l’attention sur les développements récents des sciences cognitives énactives qui pourraient permettre de dépasser ces limites de fond.
 
 Les principes de la mémétique
 =============================
@@ -123,10 +121,14 @@ Penser le contexte
 
 Que ce soit par la pragmatique, les notions de situation de communication et situation de locution, le genre ou la scénographie (\#ref), l’analyse des différentes composantes du contexte et la façon dont elles participent à la signification ne sont pas des questions inédites en linguistique. La difficulté apparaît lorsqu’il s’agit d’utiliser ces notions dans une analyse à sensibilité quantitative (comme la mémétique), précisément parce que le passage est conçu comme une abstraction progressive du contexte, qui entraîne une perte de précision significative (\#ref).
 
-Je ne prétends pas résoudre ici cette contradiction qui sous-tend les notions mêmes de qualitatif et de quantitatif, ni même esquisser une proposition qui pourrait s’y atteler, le programme est trop vaste. Néanmoins le virage énactif des sciences cognitives apporte des éléments de réflexion : celui-ci consiste en effet à passer d’une science des contenus (définis en délimitant des frontières entre intérieur et extérieur, puis en s’attachant aux propriétés de l’intérieur) à une science des liens et de l’attention. Au niveau cognitif, au lieu d’étudier ce qu’un organisme peut faire en toute généralité, il s’agit de se concentrer sur ce qu’une situation donnée permet comme interactions, et étudier ce à quoi l’organisme porte attention dans sa situation. L’approche coupe ainsi transversalement la dichotomie séparant intérieur et extérieur, ou organisme et environnement, en considérant la relation organisme-environnement comme l’objet central de toute analyse. L’application de cette approche à la linguistique est en plein développement, et les récents travaux de \#ref promettent un éclairage extrêmement riche pour ces questions.
+Je ne prétends bien sûr pas résoudre cette contradiction qui sous-tend les notions mêmes de qualitatif et de quantitatif, ni même esquisser une proposition qui pourrait s’y atteler ; le programme est trop vaste. Néanmoins le virage énactif des sciences cognitives apporte des éléments de réflexion : celui-ci consiste en effet à passer d’une science des contenus (définis en délimitant des frontières entre intérieur et extérieur, puis en s’attachant aux propriétés de l’intérieur) à une science des liens et de l’attention. Au niveau cognitif, au lieu d’étudier ce qu’un organisme peut faire en toute généralité, il s’agit de se concentrer sur ce qu’une situation donnée permet comme interactions, et étudier ce à quoi l’organisme porte attention dans sa situation. L’approche coupe ainsi transversalement la dichotomie séparant intérieur et extérieur, ou organisme et environnement, en considérant la relation organisme-environnement comme l’objet central de toute analyse. L’application de cette approche à la linguistique est en plein développement, et les récents travaux de \#ref promettent un éclairage extrêmement riche pour ces questions.
 
 Conclusion
 ==========
+
+La mémétique et l’épidémiologie des représentations proposent des descriptions unifiées de la société. Dans leurs versions restreintes, ces propositions se traduisent en modèles applicables à l’analyse linguistique de la diffusion et des mutations dans les réseaux sociaux numériques. Si ces modèles apportent de l’intelligibilité aux réseaux en ligne, il faut garder à l’esprit que leur champ d’application est en réalité limité aux phénomènes de diffusion stricte ou aux mutations non sémantiques.
+
+Tenter de généraliser ces approches, que ce soit au niveau théorique ou empirique, fait apparaître les dichotomies de fond qui les limitent. Plutôt que de chercher l’éclairage que la mémétique apporte à la linguistique, on peut alors se demander ce que la linguistique elle-même apporte à la mémétique. L’approche non représentationnelle du langage, en particulier, semble pouvoir éclairer utilement la question de la sémantique dans son contexte ; une fois pleinement développée, il sera certainement intéressant de voir ce qu’elle peut apporter à l’étude des réseaux sociaux numériques.
 
 [^1]: Dans les termes d'Ingold, « un corpus de connaissances ou d'information qui peut être transmis à travers les générations indépendamment des situations d'application concrètes dans le monde » (\#ref ingold2).
 
