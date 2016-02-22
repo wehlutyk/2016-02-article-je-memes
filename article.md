@@ -1,6 +1,6 @@
 ---
 title: Pour une étude du contexte d’interprétation
-author: Sébastien Lerique^[Centre d'Analyse et de Mathématique Sociales (EHESS, Paris), et Centre Marc Bloch (Berlin).]
+author: Sébastien Lerique^[Centre d'Analyse et de Mathématique Sociales (UMR 8557, EHESS, Paris), et Centre Marc Bloch (Berlin).]
 lang: fr-FR
 geometry: margin=1.2in
 numbersections: True
