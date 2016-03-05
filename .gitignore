@@ -2,6 +2,7 @@
 *.docx
 .~lock.*
 *.pdf
+sent/
 
 # Latexmk
 *.aux
