@@ -1,4 +1,5 @@
 *.odt
+*.docx
 .~lock.*
 *.pdf
 
