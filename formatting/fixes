@@ -1,0 +1,12 @@
+[ok] Remove title
+[ok] Paragraph style for paragraphs after a title or list item
+[ok] Spaces around « and »
+Citations:
+[ok]   et al. en italique,
+[ok]   spaces before ':',
+[ok]   multiple citation of same author
+Brackets for numbers for list items
+[ok] Remove any double spaces (normal followed by insécable)
+Title numbering
+Interligne 1.5
+Fonts (text body, headings, footnotes), so that it works in pdf too

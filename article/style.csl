@@ -18,7 +18,7 @@
     <category citation-format="author-date"/>
     <category field="linguistics"/>
     <summary>Unified Style Sheet for Linguistics</summary>
-    <updated>2015-01-01T23:37:43+00:00</updated>
+    <updated>2012-10-25T21:15:26+00:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale>
@@ -128,6 +128,7 @@
   <macro name="contributors">
     <names variable="author">
       <name and="text" name-as-sort-order="first" sort-separator=", " delimiter=", " delimiter-precedes-last="never"/>
+      <et-al font-style="italic"/>
       <label form="short" prefix=", " suffix=" "/>
       <substitute>
         <text macro="editor"/>
@@ -139,6 +140,7 @@
   <macro name="contributors-short">
     <names variable="author">
       <name form="short" and="text" delimiter=", " delimiter-precedes-last="never"/>
+      <et-al font-style="italic"/>
       <substitute>
         <names variable="editor"/>
         <names variable="translator"/>
@@ -338,7 +340,7 @@
     </choose>
   </macro>
   <citation et-al-min="4" et-al-use-first="1" disambiguate-add-year-suffix="true" disambiguate-add-names="true" disambiguate-add-givenname="true">
-    <layout prefix="(" suffix=")" delimiter="; ">
+    <layout prefix="(" suffix=")" delimiter=" ; ">
       <group delimiter=" : ">
         <group delimiter=", ">
           <text macro="contributors-short"/>

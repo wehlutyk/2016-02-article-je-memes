@@ -1,17 +1,5 @@
-*.odt
-*.docx
-.~lock.*
-*.pdf
+# Non-publishable online
+2016.01.12 Introduction au numéro - version de travail.pdf
 sent/
-
-# Latexmk
-*.aux
-*.dvi
-*.fdb_latexmk
-*.fls
-*.log
-*.out
-*.toc
-*.tex
-*.bbl
-*.blg
+reviews/1 Antoine Gautier*/
+reviews/2 Camille Roth*/
