@@ -5,7 +5,7 @@ ODFS = article.odt auteur-titre.odt résumés.odt
 default: $(PDFS) $(ODFS)
 
 %.pdf: %.md $(DEPS)
-	{ cat $< | sed -n '/^---$$/,/^---$$/p'; pandoc $< -t latex --filter pandoc-citeproc | sed 's/labelenumi{(\(.*\))}/labelenumi{[\1]}/'; } | pandoc -o $@ --latex-engine=xelatex
+	pandoc $< -o $@ --filter pandoc-citeproc --latex-engine=xelatex
 
 %.odt: %.md $(DEPS)
 	pandoc $< -o $@ --filter pandoc-citeproc --latex-engine=xelatex
