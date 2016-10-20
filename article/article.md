@@ -15,24 +15,12 @@ header-includes:
 Introduction {-}
 ============
 
-La mémétique a connu un renouveau récent au travers du programme d’épidémiologie des représentations proposé par Dan Sperber dans le courant des années 1990 [@sperber_explaining_1996]. Si son ambition initiale a été relativement délaissée, ses principes restent utilisés aujourd’hui dans l’étude des mèmes internet sur les réseaux sociaux numériques et dans le courant de recherche épidémiologique initié par Sperber.
+La mémétique en tant que théorie globale de la culture est un programme en voie d'extinction. Mais son héritage n'est pas limité à l'étude des "mèmes internet": si @dawkins_selfish_2006 n'était pas le premier à observer côte-à-côte l'évolution biologique et le changement culturel [une métaphore était déjà opérée par @kroeber_nature_1952], la controverse qu'il a généré a contribué à placer cette question au centre du débat actuel sur l'évolution culturelle. Le programme d'épidémiologie des représentations proposé par Dan Sperber dans le courant des années 1990 [@sperber_explaining_1996], par exemple, combine habilement une vue mémétique de la culture avec les apports des sciences cognitives classiques. D'autres propositions, comme celles de @boyd_culture_1985 ou @mesoudi_cultural_2011 [p. 40], défendent une analyse darwinienne -- mais non mémétique -- des changements de la culture au cours du temps. Darwin lui-même avait remarqué les similarités entre évolution biologique et évolution des langues [@mesoudi_cultural_2011 p. viii; @darwin_descent_1981 p. 59-61], une voie qui est aujourd'hui développée par @croft_evolutionary_2013.
 
-\add{↑ Et ces principes sont le reflet d'un vieux débat structuraliste qu'on retrouve à plusieurs niveaux dans l'assemblage de disciplines pour le paradigme de l'étude de l'évolution culturelle : biologique, psychologique, culturel, et linguistique}
+Plus largement, la discussion des parallèles et des différences entre évolution biologique et évolution culturelle traverse l'ensemble des recherches qui articulent les sciences sociales avec la biologie et la psychologie au sens large, incluant les sciences cognitives. L'épidémiologie des représentations et la synthèse évolutionnaire telle que proposée par @mesoudi_cultural_2011, en particulier, défendent toutes deux une intégration des sciences sociales et des sciences naturelles par une forme de théorie darwinienne étendue, dont la mémétique serait une variation simpliste. Cette orientation est partagée par bon nombre de chercheurs en sciences cognitives [voir, à quelques exceptions près, les commentaires des pairs dans @mesoudi_towards_2006] et par certains chercheurs en sciences sociales [par exemple @slingerland_what_2008]. Elle est en revanche durement critiquée par une branche de l'anthropologie sociale bien représentée par @ingold_biosocial_2014, proposant une autre articulation des sciences sociales et des sciences naturelles basée sur les développements récents en théorie des systèmes de développement [@oyama_cycles_2001]. Je voudrais montrer en quoi cette discussion, et la position portée par la mémétique, sont pertinentes au moment d'envisager une utilisation de cette théorie en linguistique.
 
-
-
-
-
-
-\add{↓ Mesoudi, Slingerland and one of the Ingold books. Expliciter que le débat est aussi sur l'évolution.}
-
-\change{Ces deux champs participent à un débat actif (bien que parfois peu explicite) à propos des approches permettant de lier les sciences humaines et la psychologie au sens large, et en particulier les sciences cognitives. La position qu'elles ont sur cette question est clairement arrêtée et partagée bien au-delà de leurs communautés respectives.} Je voudrais montrer en quoi cette discussion, et la position portée par la mémétique, sont pertinentes au moment d'envisager une utilisation de cette théorie en linguistique.
-
-\add{↓ Introduire la mémétique}
-
-Je commence par rappeler les principes de l'épidémiologie des représentations, qui s'est constituée comme une critique de la mémétique et connaît actuellement un succès réel.
-\add{et partagé dans d'autres disciplines}
-Puis j'examine en détail la façon dont Tim Ingold \add{et d'autres}, \change{principal critique} explicite de cette approche aujourd'hui, discute \add{la proposition d'évolution culturelle de} ces deux théories depuis l'anthropologie sociale \add{et DST (Oyama et al.)}.
+Après un bref rappel de la théorie mémétique, je commence par introduire les principes de l'épidémiologie des représentations, constituée comme une critique de certaines simplifications de la mémétique, et qui connaît actuellement un succès croissant dans plusieurs disciplines.
+Puis j'examine en détail la façon dont Tim Ingold, critique majeur de cette approche aujourd'hui, discute la proposition d'évolution culturelle de ces deux théories depuis l'anthropologie sociale et la théorie des systèmes de développement, en distinguant trois niveaux croissants d'objection.
 
 \add{↓ Si les choses précédentes sont plutôt du long terme, la mémétique et Sperber peuvent se particulariser à la mémétique linguistique, et on retrouve dans ce domaine le débat et les problèmes structuralistes en parallèle dans la linguistique.}
 
