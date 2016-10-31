@@ -7,7 +7,7 @@ mainfont: TeX Gyre Pagella
 Titre
 =====
 
-Pour une étude du contexte d’interprétation
+Pour une étude du contexte d’interprétation. Réflexions épistémologiques sur la mémétique.
 
 Auteur
 ======
