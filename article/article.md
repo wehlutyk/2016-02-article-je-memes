@@ -115,7 +115,7 @@ Le premier est une critique de l'approche néo-darwinienne qui sépare un conten
 Ce premier degré conteste donc l'idée de séparer gènes et développement (pour le biologique), ou représentations et comportement (pour le culturel). Le deuxième degré consiste à contester directement la séparation entre biologique et culturel. D'après Ingold, on ne peut comprendre cette séparation que si on accepte les dichotomies gènes-développement et représentation-comportement: les gènes définiraient un corps biologique (à des fluctuations près), qui adopterait ensuite des comportements culturels spécifiés par les représentations. Mais en refusant ces séparations:
 
 > «La pensée [de la théorie des systèmes de développement] nous permet de reconnaître que nous n'avons pas affaire à des systèmes séparés mais parallèles, respectivement biologique et culturel, mais plutôt que le processus biologique du développement [...] *est* précisément le processus par lequel le savoir et les compétences culturels sont inculqués et corporisés.»^[
-    L'accentuation en italique vient de l'original.
+    Mots soulignés dans l'original.
   ] [@ingold_trouble_2007 p. 16]
 
 Ingold argumente ce point en se référant aux travaux en anthropologie [par exemple sur le développement des techniques du corps comme la marche, par @mauss_sociology_1979; ou encore l'écologie de l'esprit de @bateson_steps_1972], en psychologie [l'approche écologique de la vision de @gibson_ecological_2014], et en sociologie [le sens pratique de @bourdieu_sens_1980], qui montrent les façons dont la culture est éminemment biologique.
