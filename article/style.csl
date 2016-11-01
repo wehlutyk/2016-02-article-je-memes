@@ -287,6 +287,11 @@
     <date variable="issued">
       <date-part name="year"/>
     </date>
+    <group prefix="[" suffix="]">
+      <date variable="original-date">
+        <date-part name="year"/>
+      </date>
+    </group>
   </macro>
   <macro name="collection-title">
     <group prefix="(" suffix=")">
@@ -380,7 +385,6 @@
           </group>
           <text macro="locators-article"/>
         </group>
-        <text macro="access"/>
       </group>
     </layout>
   </bibliography>
