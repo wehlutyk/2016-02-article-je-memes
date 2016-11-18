@@ -200,7 +200,7 @@ Si les modèles mémétique et épidémiologique apportent une intelligibilité 
 Remerciements {-}
 =============
 
-Je voudrais remercier Camille Roth et Barbara Bauduin pour ses commentaires sur ce travail au cours de son écriture, ainsi qu'Antoine Gautier et Gilles Siouffi pour leurs retours et l'organisation générale de ce numéro thématique.
+Je voudrais remercier Camille Roth et Barbara Bauduin pour leurs commentaires sur ce travail au cours de son écriture, ainsi qu'Antoine Gautier et Gilles Siouffi pour leurs retours et l'organisation générale de ce numéro thématique.
 
 Ce travail a également été financé en partie par l'Agence Nationale de la Recherche (ANR) française, au travers de la bourse Algopol (ANR-12-CORD-0018).
 
