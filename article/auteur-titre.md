@@ -7,7 +7,7 @@ mainfont: TeX Gyre Pagella
 Titre
 =====
 
-Pour une étude du contexte d’interprétation. Réflexions épistémologiques sur la mémétique.
+Pour une étude de la dynamique du sens. Réflexions épistémologiques sur la mémétique et l'épidémiologie des représentations.
 
 Auteur
 ======
