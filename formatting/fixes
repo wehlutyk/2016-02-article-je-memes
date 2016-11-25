@@ -1,6 +1,7 @@
 Paragraph style for paragraphs after a list item
 Spaces around « and »
-Spaces before ':' and ';'
+Spaces before ':' and ';' and '?'
+Replace all ' with ’
 Remove any double spaces (normal followed by insécable)
 Brackets for numbers for list items
 Title numbering
