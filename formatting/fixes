@@ -5,5 +5,6 @@ Replace all ' with ’
 Remove any double spaces (normal followed by insécable)
 Brackets for numbers for list items
 Title numbering
+References to other parts (\ref{} in markdown)
 Interligne 1.5
 Fonts (text body, headings, footnotes), so that it works in pdf too
