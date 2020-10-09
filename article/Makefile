@@ -5,10 +5,10 @@ ODFS = article.odt auteur-titre.odt résumés.odt
 default: $(PDFS) $(ODFS)
 
 %.pdf: %.md $(DEPS)
-	pandoc $< -o $@ --filter pandoc-citeproc --latex-engine=xelatex
+	pandoc $< -o $@ --filter pandoc-citeproc --pdf-engine=xelatex
 
 %.odt: %.md $(DEPS)
-	pandoc $< -o $@ --filter pandoc-citeproc --latex-engine=xelatex
+	pandoc $< -o $@ --filter pandoc-citeproc --pdf-engine=xelatex
 
 .PHONY: watch clean
 
