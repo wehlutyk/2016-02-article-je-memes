@@ -5,8 +5,13 @@ lang: fr-FR
 bibliography: bibliography.bib
 mainfont: TeX Gyre Pagella
 csl: style.csl
+title: Pour une étude de la dynamique du sens. Réflexions épistémologiques sur la mémétique et l'épidémiologie des représentations.
+author: |
+  Sébastien Lerique^[
+    Centre d’Analyse et de Mathématique Sociales (UMR 8557, EHESS, Paris), et Centre Marc Bloch (Berlin).
+    Email: \hbox{\href{mailto:sebastien.lerique@normalesup.org}{sebastien.lerique@normalesup.org}}.
+  ]
 header-includes:
-  - \usepackage[usenames,dvipsnames]{color}
   - \newcommand{\add}[1]{{\color{MidnightBlue}\#~ADD:} {\color{MidnightBlue}#1}}
   - \newcommand{\todo}[1]{{\color{BrickRed}\#~TODO:} {\color{BrickRed}#1}}
   - \newcommand{\change}[1]{{\color{RedViolet}CHANGE} {\color{RedViolet}[#1]}}
@@ -189,6 +194,14 @@ Conclusion {-}
 La mémétique et l'épidémiologie des représentations proposent des descriptions unifiées de la culture qui, dans leur application à l'analyse linguistique, fournissent un cadre pour l'étude de la diffusion et des mutations de représentations langagières. Dans cet article notre propos a été de montrer que, au-delà des nombreux désaccords sur la façon d'articuler les sciences sociales avec les sciences cognitives, ces deux théories sont fondées sur une conception représentationnaliste de la cognition qui entraîne certaines complications au moment de les appliquer en linguistique. Pour cela j'ai commencé par synthétiser la critique qu'Ingold adresse à l'approche épidémiologique, détaillant le dualisme informationnel qu'il considère présent à plusieurs niveaux de cette théorie, puis présentant l'extension de sa critique à la séparation entre le culturel et le biologique. J'ai ensuite cherché à montrer que cette critique est pertinente, et relativement incontournable, pour une application linguistique de l'épidémiologie des représentations: en pratique, il semble impossible d'étudier une évolution du sens des représentations dans le strict cadre épidémiologique. J'ai enfin esquissé les grandes lignes d'un cadre conceptuel alternatif pour l'étude du langage, basé sur la tradition énactive en sciences cognitives. Celui-ci étudie la cognition comme une dynamique d'interaction entre organismes, et conçoit l'activité langagière comme une forme d'interaction créatrice de sens et régulée par plusieurs niveaux de conventions endogènes. Si l'aspect représentationnel du langage ne semble pas encore expliqué par cette conceptualisation, elle permet néanmoins de comprendre le sens comme une émanation de l'interaction, et donne un cadre pour l'étude naturaliste et quantitative du sens linguistique.
 
 Malgré l'intelligibilité que les modèles mémétique et d'épidémiologie des représentations apportent à certains phénomènes de diffusion linguistique, leur application à des cas concrets comme celui présenté dans cet article laisse ouverte la définition du contenu des représentations et des mèmes. Celle-ci est pourtant cruciale au moment de générer des hypothèses falsifiables pour l'exploration empirique de ces théories. Trancher cette question nécessite d'élargir la focale pour analyser la dynamique des interactions dans lesquelles les représentations apparaissent, une démarche que l'approche énactive du langage est en train de formaliser, et qui pourrait déjà inspirer de nouvelles expériences permettant d'explorer les possibilités et les limites du paradigme épidémiologique en linguistique.
+
+
+Remerciements {-}
+=============
+
+Je voudrais remercier Camille Roth et Barbara Bauduin pour leurs précieux commentaires sur ce travail au cours de son écriture.
+
+Ce travail a également été financé en partie par l'Agence Nationale de la Recherche (ANR) française, au travers de la bourse Algopol (ANR-12-CORD-0018).
 
 
 Bibliographie {-}
